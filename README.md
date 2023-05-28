@@ -26,3 +26,4 @@ The code can measure relativly low frequences - up to 1kHz.
 <H2>Implementation of the code</H2>
 1. Measure the sine signal and find the max and min values<br>
 2. update the values in the code to the measured values with a margin of min. 100<br>
+3. You can use the file:  Code-2023-05-v1.0-ESP32-ADC-Levels.ino<br>
