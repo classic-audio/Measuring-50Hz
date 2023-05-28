@@ -11,7 +11,10 @@ TFT display 240x240 - ST7789<br>
 
 This is how the code measures the mains frequency.<br>
 The signal is a direct output from ZMPT101B<br>
-![Princip](https://github.com/classic-audio/Measuring-50Hz/assets/39434972/d958b991-96d9-4ea5-8f58-9b02ad144cfe)
+
+![Princip](https://github.com/classic-audio/Measuring-50Hz/assets/39434972/40ae19b5-ea12-4f7a-8d48-fc210e6b8a20)
+
+
 <br>
 The code search for the first LOW level of the code<br>
 When this is found - the code continius to look for the max of the signal or a level a little below max.<br>
