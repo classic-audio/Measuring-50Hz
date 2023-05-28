@@ -23,3 +23,6 @@ Then the END time (usec) is saved.<br>
 The code can measure relativly low frequences - up to 1kHz.
 <br><br>
 
+<H2>Implementation of the code</H2>
+1. Measure the sine signal and find the max and min values<br>
+2. update the values in the code to the measured values with a margin of min. 100<br>
